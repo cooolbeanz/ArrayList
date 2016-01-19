@@ -37,6 +37,7 @@ public class ArrayListChallenge {
             BankAccount b = new BankAccount(accountNumber, sortCode, balance);
             
             ledger.add(b);
+            System.out.println("");
          
         }
          
